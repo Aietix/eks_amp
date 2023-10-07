@@ -7,7 +7,7 @@ https://medium.com/@KimiHuang/monitor-your-eks-cluster-by-amazon-managed-service
 Now, let's perform some **ClickOps**. Open your AMP workspace from the AWS console, copy the Helm configuration file, and paste it into the **amp_ingest_override_values.yaml** file.
 
 ### Create/Delete EKS cluster ###
-Use **eksct**" to create/delete the EKS cluster.
+Use **eksctl**" to create/delete the EKS cluster.
 
 Create:   
 ```eksctl create cluster -f eks.yaml```   
