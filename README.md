@@ -2,7 +2,7 @@
 This is a basic demonstration of how it functions, based on the following tutorial:
 https://medium.com/@KimiHuang/monitor-your-eks-cluster-by-amazon-managed-service-for-prometheus-amp-f009ba149cab
 
-### Create workspace via AWS CLI ### 
+### Create AMP workspace via AWS CLI ### 
 ```aws amp create-workspace --region=eu-west-1 --alias amp_poc```   
 Now, let's perform some **ClickOps**. Open your AMP workspace from the AWS console, copy the Helm configuration file, and paste it into the **amp_ingest_override_values.yaml** file.
 
