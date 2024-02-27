@@ -1,4 +1,4 @@
-# Monitor your EKS cluster -  Amazon Managed Service for Prometheus (AMP) # 
+# Monitor EKS cluster -  Amazon Managed Service for Prometheus (AMP) # 
 This is a basic demonstration of how it functions, based on the following tutorial:
 https://medium.com/@KimiHuang/monitor-your-eks-cluster-by-amazon-managed-service-for-prometheus-amp-f009ba149cab
 
